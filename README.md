@@ -19,3 +19,6 @@ bash lazyhunter.sh
 ```
 
 
+# Author
+<a href="https://github.com/NehPatel24">Neh Patel</a>
+
